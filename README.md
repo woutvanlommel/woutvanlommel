@@ -26,7 +26,7 @@ I don't just write code; I build solutions. Here is my main focus:
 
 ## 🛠 Tech Stack
 
-My arsenal for building digital products:
+### My arsenal for building digital products:
 ![My Skills](https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,html,css,mysql,git,vscode,figma,postman&perline=12)
 
 ### Core Technologies
