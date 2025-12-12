@@ -77,7 +77,7 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
   <a href="https://linkedin.com/in/jouw-profiel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://woutvanlommel.dev">
+  <a href="https://woutvanlommel.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
