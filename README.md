@@ -44,7 +44,7 @@ I don't just write code; I build solutions. Here is my main focus:
 
 Ready to start a project? Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jouw@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woutvanlommel@icloud.com?subjet=Github contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jouw-profiel)
 [![Portfolio](https://img.shields.io/badge/Website-My_Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jouwportfolio.be)
 
