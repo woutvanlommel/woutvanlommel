@@ -27,6 +27,8 @@ module.exports = {
   },
   mission: 'Crafting clean code and dynamic user experiences.'
 };
+```
+
 <br />
 
 <h3 align="center">🛠 Tech Stack & Tools</h3> <div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,php,laravel,react,tailwind,html,css,mysql,git,vscode,figma,postman%26perline%3D12" /> </a> </div>
