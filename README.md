@@ -31,11 +31,11 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
 
 <br />
 
-<h3 align="center">⚡ Activity & Stats</h3>
+## Activity stats
 <div align="center">
-  <a href="https://github.com/[JOUW_GITHUB_NAAM]">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[JOUW_GITHUB_NAAM]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[JOUW_GITHUB_NAAM]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+  <a href="https://github.com/woutvanlommel">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=woutvanlommel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woutvanlommel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
   </a>
 </div>
 
