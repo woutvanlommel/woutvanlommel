@@ -1,85 +1,50 @@
 <div align="center">
-  <h1>Hi, I'm Wout 👋</h1>
-  <h3>Full Stack Developer | Freelancer</h3>
-  
-  <p>
-    <b>I specialize in building robust backend systems and dynamic frontend experiences.</b>
-  </p>
-  
-  <p>
-    I turn complex problems into elegant, scalable web solutions. As a freelance developer, I am dedicated to helping businesses and individuals achieve their digital goals through clean code and modern technology.
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=280&section=header&text=Building%20Digital%20Solutions&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(PHP%20%2F%20JS)&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%" />
+</div>
 
-  <br />
-
-  <a href="mailto:woutvanlommel@icloud.com?subject=Gitub contact">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Writing+PHP+%26+JavaScript;Building+Freelance+Projects;Styling+with+Tailwind+CSS" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/wout-vanlommel-6aa85825a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <br /><br />
 </div>
 
----
+<br />
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 Developer Configuration</h3>
 
-I am a **Full Stack Developer** driven by a passion for continuous learning and efficient problem-solving. While I have a strong foundation in core web technologies, I am constantly refining my skills to stay ahead in the fast-paced tech landscape.
+```javascript
+// user.config.js
+module.exports = {
+  identity: {
+    role: 'Junior Full Stack Developer',
+    status: 'Freelance & Open for Work 🟢',
+    location: 'Belgium 🇧🇪',
+  },
+  stack: {
+    languages: ['JavaScript', 'PHP'],
+    frontend: ['React', 'Tailwind CSS', 'HTML5'],
+    backend: ['Laravel', 'MySQL', 'Node.js'],
+  },
+  mission: 'Crafting clean code and dynamic user experiences.'
+};
+<br />
 
-My approach to development is **user-centric** and **data-driven**. I don't just write code; I build solutions that are maintainable, secure, and optimized for performance. Whether you need a custom web application, an API integration, or a complete platform overhaul, I bring both technical expertise and a practical mindset to the table.
+<h3 align="center">🛠 Tech Stack & Tools</h3> <div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,php,laravel,react,tailwind,html,css,mysql,git,vscode,figma,postman%26perline%3D12" /> </a> </div>
 
----
+<br />
 
-### 🛠️ Tech Stack
+<h3 align="center">⚡ Activity & Statistics</h3> <div align="center"> <a href="https://github.com/[JOUW_GITHUB_NAAM]"> <img height="170em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[JOUW_GITHUB_NAAM]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> <img height="170em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[JOUW_GITHUB_NAAM]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" /> </a> </div>
 
-<div align="center">
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,laravel,mysql&perline=8" alt="My Tech Stack" />
-  <br /><br />
-</div>
+<br />
 
----
+<div align="center"> <img src="https://github.com/[JOUW_GITHUB_NAAM]/[JOUW_GITHUB_NAAM]/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" /> </div>
 
-### 🚀 Services & Expertise
+<br />
 
-I offer a range of development services tailored to modern web standards:
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0f172a%26height%3D100%26section%3Dfooter" width="100%" />
 
-* **Full Stack Web Development:**
-    Building end-to-end applications using **Laravel** for a solid backend architecture and **Angular** for responsive, reactive front-end interfaces.
+<br />
 
-* **Database Design & Management:**
-    Designing efficient **MySQL** database schemas that ensure data integrity and fast query performance for data-heavy applications.
+<p>Let's work together!</p>
 
-* **API Development & Integration:**
-    Creating RESTful APIs to allow seamless communication between different software systems, or integrating third-party services (like payment gateways) into your application.
-
-* **Code Maintenance & Refactoring:**
-    Analyzing existing codebases (PHP/JS) to improve readability, performance, and security without breaking functionality.
-
----
-
-### 🧩 My Philosophy
-
-I believe that successful freelance collaboration relies on three pillars:
-
-1.  **Clean Code:** Writing code that is easy to understand and easy to test.
-2.  **Clear Communication:** Keeping clients in the loop is as important as the development itself.
-3.  **Future-Proofing:** Building solutions that can grow and scale with your business.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woutvanlommel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woutvanlommel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="languages" />
-</div>
-
----
-
-<div align="center">
-  <sub><i>Open to freelance opportunities and interesting collaborations. Let's build something great together!</i></sub>
-</div>
+<a href="mailto:jouw@email.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-06b6d4%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/search?q=https://linkedin.com/in/jouw-profiel"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0ea5e9%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/search?q=https://jouwportfolio.be"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Portfolio-38bdf8%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" /> </a> </div>
