@@ -23,13 +23,10 @@
 Momenteel focus ik me op uitbouwen van mijn portfolio
 <img src="https://skillicons.dev/icons?i=html,js,css,tailwind,ts,angular,php,laravel,mysql,git,github,vscode,figma&perline=13" />
 
-
-
-<h3 align="center">👋 Hello World!</h3>
-
-<div align="center">
-  <p>Ik ben een gedreven <b>Junior Full Stack Developer</b> uit <b>België 🇧🇪</b>.<br>
-  Momenteel focus ik me op het bouwen van mijn freelance portfolio.</p>
+- 🔭 **Working on:** Freelance projecten & Portfolio
+- 🌱 **Learning:** Advanced Angular & Laravel Architecture
+- 🤝 **Open for:** Freelance gigs & Samenwerkingen
+- 🎨 **Style:** Clean UI & Modern CSS (Tailwind)
   
   <p>
     🔭 <b>Working on:</b> Freelance projecten & Portfolio<br>
@@ -41,7 +38,7 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
 
 <br />
 
-<h3 align="center">🛠 Tech Stack & Tools</h3>
+<h3 align="start">🛠 Tech Stack & Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,html,css,mysql,git,vscode,figma,postman&perline=12" />
@@ -60,9 +57,6 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
 
 <br />
 
-<div align="center">
-  <img src="https://github.com/[JOUW_GITHUB_NAAM]/[JOUW_GITHUB_NAAM]/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
 
 <br />
 
@@ -74,7 +68,7 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
   <a href="mailto:woutvanlommel@icloud.com?subject=Github contact">
     <img src="https://img.shields.io/badge/Email-Contact_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://linkedin.com/in/jouw-profiel">
+  <a href="https://www.linkedin.com/in/wout-vanlommel-6aa85825a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://woutvanlommel.dev" target="_blank">
