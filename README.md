@@ -24,6 +24,7 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
 <img src="https://skillicons.dev/icons?i=html,js,css,tailwind,ts,angular,php,laravel,mysql,git,github,vscode,figma&perline=13" />
 
 
+
 <h3 align="center">👋 Hello World!</h3>
 
 <div align="center">
@@ -70,13 +71,13 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
 
   <br />
 
-  <a href="mailto:jouw@email.com">
+  <a href="mailto:woutvanlommel@icloud.com?subject=Github contact">
     <img src="https://img.shields.io/badge/Email-Contact_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/jouw-profiel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://jouwportfolio.be">
+  <a href="https://woutvanlommel.dev">
     <img src="https://img.shields.io/badge/Website-Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
