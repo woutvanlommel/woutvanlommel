@@ -1,61 +1,55 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=260&section=header&text=Digital%20Creator%20%26%20Developer&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Building%20with%20PHP%20%26%20Angular&descAlignY=58&descAlign=60&fontColor=ffffff" width="100%" />
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=260&section=header&text=Digital%20Creator%20&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(PHP%20%26%20Angular)&descAlignY=58&descAlign=60&fontColor=ffffff)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&width=500&lines=Junior+Full+Stack+Developer;Angular+%26+PHP+Enthusiast;Building+Freelance+Projects;Designing+with+Tailwind+CSS)](https://git.io/typing-svg)
 
-# Hello world
+![Coding Gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 
-<div align="start">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Angular+%26+PHP+Enthusiast;Building+Freelance+Projects;Designing+with+Tailwind+CSS" alt="Typing SVG" />
-  </a>
-</div>
+# 👋 Hallo, ik ben Wout!
 
-<br />
+Ik ben een gedreven **Junior Full Stack Developer** uit **België 🇧🇪**. Ik focus mij op het bouwen van strakke webapplicaties en mijn freelance portfolio.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" alt="Coding Animation" />
-</div>
+- 🔭 **Huidige focus:** Freelance projecten & Portfolio uitbreiden
+- 🌱 **Aan het leren:** Advanced Angular & Laravel Architecture
+- 🤝 **Beschikbaar voor:** Freelance opdrachten
+- 🎨 **Stijl:** Clean UI & Modern CSS (Tailwind)
 
-<br />
+---
 
-## Junior Full Stack Developer | België 🇧🇪
-Momenteel focus ik me op uitbouwen van mijn portfolio
-<br />
-<img src="https://skillicons.dev/icons?i=html,js,css,tailwind,ts,angular,php,laravel,mysql,git,github,vscode,figma&perline=13" />
+## 🚀 Mijn Workflow
 
-- 🔭 **Working on:** Freelance projecten & Portfolio
-- 🌱 **Learning:** Advanced Angular & Laravel Architecture
-- 🤝 **Open for:** Freelance gigs & Samenwerkingen
-- 🎨 **Style:** Clean UI & Modern CSS (Tailwind)
+> **Design** (Figma) → **Frontend** (Angular) → **Backend** (Laravel/PHP) → **Deploy**
 
-<br />
+![Workflow Badges](https://img.shields.io/badge/Front--End-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white) ![Backend Badge](https://img.shields.io/badge/Back--End-PHP-777bb4?style=for-the-badge&logo=php&logoColor=white) ![Database Badge](https://img.shields.io/badge/Database-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Activity stats
-<div align="center">
-  <a href="https://github.com/woutvanlommel">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=woutvanlommel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woutvanlommel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-  </a>
-</div>
+---
 
-<br />
+## 🛠 Tech Stack & Tools
 
+![My Skills](https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,html,css,mysql,git,vscode,figma,postman&perline=12)
 
-<br />
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%" />
+## 🏆 Featured Projects
 
-  <br />
+Hier zijn enkele projecten waar ik aan werk:
 
-  <a href="mailto:woutvanlommel@icloud.com?subject=Github contact">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/wout-vanlommel-6aa85825a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://woutvanlommel.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
+* [![Portfolio](https://img.shields.io/badge/Project-Portfolio_Website-0ea5e9?style=flat-square&logo=github)](https://github.com/woutvanlommel)
+* [![App](https://img.shields.io/badge/Project-Freelance_App-06b6d4?style=flat-square&logo=github)](https://github.com/woutvanlommel)
+
+---
+
+## 🐍 GitHub Activiteit
+
+![Snake Animation](https://github.com/woutvanlommel/woutvanlommel/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Let's Connect
+
+Wil je samenwerken? Stuur me een bericht!
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jouw@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jouw-profiel)
+[![Website](https://img.shields.io/badge/Website-Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jouwportfolio.be)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer)
