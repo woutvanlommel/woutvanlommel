@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&width=600&lines=Building+Scalable+Web+Apps;Learning+in+Angular+%26+PHP;Turning+Design+into+Code;Open+for+New+Projects!+🚀)](https://git.io/typing-svg)
 
-![Coding Gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+![Coding Gif]([https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif))
 
 # 👋 About Me
 
