@@ -27,6 +27,7 @@ I don't just write code; I build solutions. Here is my main focus:
 ## 🛠 Tech Stack
 
 My arsenal for building digital products:
+![My Skills](https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,html,css,mysql,git,vscode,figma,postman&perline=12)
 
 ### Core Technologies
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
