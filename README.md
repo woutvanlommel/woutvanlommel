@@ -1,51 +1,52 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Wout%20Vanlommel&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Freelancer&descAlignY=65&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,a855f7,ec4899&height=220&section=header&text=Wout%20Vanlommel&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Freelancer&descAlignY=65&descAlign=50&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&width=600&lines=Building+Scalable+Web+Apps;Specialized+in+Angular+%26+PHP;Transforming+Designs+into+Code;Available+for+Freelance+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&width=600&lines=Building+Scalable+Web+Apps;Expert+in+Angular+%26+PHP;Turning+Coffee+into+Code;Open+for+New+Projects!+🚀)](https://git.io/typing-svg)
 
 ![Coding Gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 
 # 👋 About Me
 
-> **"Code is poetry."**
+> **"Simplicity is the soul of efficiency."**
 
-Hi there! I am a **Junior Full Stack Developer** based in **Belgium 🇧🇪**. I combine the robustness of PHP with the dynamic power of Angular to build modern web solutions. As a freelancer, I focus on clean architecture, performance, and user experience.
+Hi! I am a **Junior Full Stack Developer** from **Belgium 🇧🇪**.
+I specialize in building clean, efficient, and user-friendly web applications. As a freelancer, I bridge the gap between complex backend logic (PHP) and dynamic frontend experiences (Angular).
 
 ---
 
-## 🚀 What I Do (Services)
+## 🚀 Services Provided
 
-I don't just write code; I build solutions. Here is my main focus:
+I help businesses transform ideas into digital reality:
 
 | Domain | Description |
 | :--- | :--- |
-| **Frontend Development** | Creating pixel-perfect, responsive interfaces using **Angular** & **Tailwind CSS**. |
-| **Backend Architecture** | Building secure and fast APIs and database structures with **PHP/Laravel** & **MySQL**. |
-| **Full Stack Solutions** | From database design to the final user interface, handling the complete lifecycle. |
+| **Frontend Magic** | Responsive and interactive UI's built with **Angular** & **Tailwind CSS**. |
+| **Backend Logic** | Secure API's and robust database architectures using **Laravel** & **MySQL**. |
+| **End-to-End** | Complete project handling: from Figma design to deployment. |
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Arsenal
 
-### My arsenal for building digital products:
-![My Skills](https://skillicons.dev/icons?i=html,js,ts,tailwind,php,angular,laravel,mysql,git,vscode,figma&perline=12)
+I use the best modern tools to ensure quality and speed:
 
-### Core Technologies
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,html,css,mysql,git,vscode,figma,postman&perline=12&theme=dark)
 
-### Frameworks & Styling
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### Tools & Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 💼 Featured Status
+
+| Current Focus | Availability | Location |
+| :--- | :--- | :--- |
+| **Freelance & Portfolio** | **🟢 Open for Work** | **Genk, Belgium** |
 
 ---
 
 ## 📫 Let's Connect
 
-Ready to start a project? Feel free to reach out!
+Got a project in mind? Let's chat!
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woutvanlommel@icloud.com?subjet=Github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jouw-profiel)
-[![Portfolio](https://img.shields.io/badge/Website-My_Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jouwportfolio.be)
+[![Email](https://img.shields.io/badge/Email-Send_Message-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woutvanlommel@icloud.com?subject=Github%20Contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jouw-profiel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jouwportfolio.be)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,a855f7,ec4899&height=100&section=footer)
