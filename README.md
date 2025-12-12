@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=260&section=header&text=Digital%20Creator%20%26%20Developer&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Building%20with%20PHP%20%26%20Angular&descAlignY=58&descAlign=60&fontColor=ffffff" width="100%" />
 </div>
 
-<div align="center">
+
+# Hello world
+
+<div align="start">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Angular+%26+PHP+Enthusiast;Building+Freelance+Projects;Designing+with+Tailwind+CSS" alt="Typing SVG" />
   </a>
@@ -11,10 +14,15 @@
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="450" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" alt="Coding Animation" />
 </div>
 
 <br />
+
+## Junior Full Stack Developer | België 🇧🇪
+Momenteel focus ik me op uitbouwen van mijn portfolio
+
+$ sldkfjs $
 
 <h3 align="center">👋 Hello World!</h3>
 
