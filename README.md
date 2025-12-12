@@ -21,8 +21,8 @@
 
 ## Junior Full Stack Developer | België 🇧🇪
 Momenteel focus ik me op uitbouwen van mijn portfolio
+<img src="https://skillicons.dev/icons?i=html,js,css,tailwind,ts,angular,php,laravel,mysql,git,github,vscode,figma&perline=12" />
 
-$ sldkfjs $
 
 <h3 align="center">👋 Hello World!</h3>
 
