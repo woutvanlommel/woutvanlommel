@@ -1,34 +1,34 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Wout%20Van%20Lommel&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Freelancer&descAlignY=65&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Wout%20Vanlommel&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Freelancer&descAlignY=65&descAlign=50&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&width=600&lines=Building+Scalable+Web+Apps;Specialized+in+Angular+%26+PHP;Transforming+Designs+into+Code;Available+for+Freelance+Work)](https://git.io/typing-svg)
 
 ![Coding Gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 
-# 👋 Over Mij
+# 👋 About Me
 
 > **"Code is poetry."**
 
-Ik ben een **Junior Full Stack Developer** gevestigd in **België 🇧🇪**. Ik combineer de kracht van PHP met de dynamiek van Angular om robuuste weboplossingen te bouwen. Als freelancer ligt mijn focus op kwaliteit, snelheid en schone code.
+Hi there! I am a **Junior Full Stack Developer** based in **Belgium 🇧🇪**. I combine the robustness of PHP with the dynamic power of Angular to build modern web solutions. As a freelancer, I focus on clean architecture, performance, and user experience.
 
 ---
 
-## 🚀 Wat ik doe (Services)
+## 🚀 What I Do (Services)
 
-Omdat ik niet stilzit, specialiseer ik mij in de volgende domeinen:
+I don't just write code; I build solutions. Here is my main focus:
 
-| Domein | Omschrijving |
+| Domain | Description |
 | :--- | :--- |
-| **Frontend Development** | Pixel-perfect implementatie van designs met **Angular** & **Tailwind CSS**. |
-| **Backend Architecture** | Veilige en snelle API's en databases bouwen met **PHP/Laravel** & **MySQL**. |
-| **Full Stack Solutions** | Van database design tot user interface, ik bouw de volledige applicatie. |
+| **Frontend Development** | Creating pixel-perfect, responsive interfaces using **Angular** & **Tailwind CSS**. |
+| **Backend Architecture** | Building secure and fast APIs and database structures with **PHP/Laravel** & **MySQL**. |
+| **Full Stack Solutions** | From database design to the final user interface, handling the complete lifecycle. |
 
 ---
 
-## 🛠 Mijn Arsenaal (Tech Stack)
+## 🛠 Tech Stack
 
-Dit zijn de technologieën waarmee ik mijn oplossingen bouw:
+My arsenal for building digital products:
 
-### Core
+### Core Technologies
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Styling
@@ -41,10 +41,10 @@ Dit zijn de technologieën waarmee ik mijn oplossingen bouw:
 
 ## 📫 Let's Connect
 
-Klaar om samen iets tofs te bouwen?
+Ready to start a project? Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-Stuur_een_bericht-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jouw@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jouw@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jouw-profiel)
-[![Portfolio](https://img.shields.io/badge/Website-Mijn_Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jouwportfolio.be)
+[![Portfolio](https://img.shields.io/badge/Website-My_Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jouwportfolio.be)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer)
