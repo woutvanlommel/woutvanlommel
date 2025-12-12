@@ -1,7 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=172554,4c1d95&height=220&section=header&text=Wout%20Vanlommel&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Freelancer&descAlignY=65&descAlign=50&fontColor=ffffff)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&width=600&lines=Building+Scalable+Web+Apps;Learning+in+Angular+%26+PHP;Turning+Design+into+Code;Open+for+New+Projects!+🚀)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,4c1d95,00f2fe&height=220&section=header&text=Wout%20Vanlommel&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Freelancer&descAlignY=65&descAlign=50&fontColor=ffffff)
 
-![Coding Gif]([https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&width=600&lines=Building+Scalable+Web+Apps;Learning+in+Angular+%26+PHP;Turning+Design+into+Code;Open+for+New+Projects!+🚀)](https://git.io/typing-svg)
+
+![Coding Gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 
 # 👋 About Me
 
@@ -44,8 +45,8 @@ I use the best modern tools to ensure quality and speed:
 
 Got a project in mind? Let's chat!
 
-[![Email](https://img.shields.io/badge/Email-Send_Message-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woutvanlommel@icloud.com?subject=Github%20Contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wout-vanlommel-6aa85825a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white)](https://woutvanlommel.dev)
+[![Email](https://img.shields.io/badge/Email-Send_Message-00f2fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woutvanlommel@icloud.com?subject=Github%20Contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wout-vanlommel-6aa85825a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-020617?style=for-the-badge&logo=google-chrome&logoColor=white)](https://woutvanlommel.dev)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,a855f7,ec4899&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4c1d95,020617&height=100&section=footer)
