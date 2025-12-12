@@ -46,16 +46,16 @@ My approach to development is **user-centric** and **data-driven**. I don't just
 
 I offer a range of development services tailored to modern web standards:
 
-* **Full Stack Web Development**
+* **Full Stack Web Development:**
     Building end-to-end applications using **Laravel** for a solid backend architecture and **Angular** for responsive, reactive front-end interfaces.
 
-* **Database Design & Management**
+* **Database Design & Management:**
     Designing efficient **MySQL** database schemas that ensure data integrity and fast query performance for data-heavy applications.
 
-* **API Development & Integration**
+* **API Development & Integration:**
     Creating RESTful APIs to allow seamless communication between different software systems, or integrating third-party services (like payment gateways) into your application.
 
-* **Code Maintenance & Refactoring**
+* **Code Maintenance & Refactoring:**
     Analyzing existing codebases (PHP/JS) to improve readability, performance, and security without breaking functionality.
 
 ---
@@ -73,9 +73,9 @@ I believe that successful freelance collaboration relies on three pillars:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USER]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=woutvanlommel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USER]&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woutvanlommel&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="languages" />
 </div>
 
 ---
