@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name] 👋</h1>
+  <h1>Hi, I'm Wout 👋</h1>
   <h3>Full Stack Developer | Freelancer</h3>
   
   <p>
@@ -12,10 +12,10 @@
 
   <br />
 
-  <a href="mailto:[YOUR EMAIL]">
+  <a href="mailto:woutvanlommel@icloud.com?subject=Gitub contact">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[LINK TO YOUR LINKEDIN]">
+  <a href="https://www.linkedin.com/in/wout-vanlommel-6aa85825a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
