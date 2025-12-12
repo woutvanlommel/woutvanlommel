@@ -27,23 +27,6 @@ Momenteel focus ik me op uitbouwen van mijn portfolio
 - 🌱 **Learning:** Advanced Angular & Laravel Architecture
 - 🤝 **Open for:** Freelance gigs & Samenwerkingen
 - 🎨 **Style:** Clean UI & Modern CSS (Tailwind)
-  
-  <p>
-    🔭 <b>Working on:</b> Freelance projecten & Portfolio<br>
-    🌱 <b>Learning:</b> Advanced Angular & Laravel Architecture<br>
-    🤝 <b>Open for:</b> Freelance gigs & Samenwerkingen<br>
-    🎨 <b>Style:</b> Clean UI & Modern CSS (Tailwind)
-  </p>
-</div>
-
-<br />
-
-<h3 align="start">🛠 Tech Stack & Tools</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,php,laravel,tailwind,html,css,mysql,git,vscode,figma,postman&perline=12" />
-  </a>
-</div>
 
 <br />
 
